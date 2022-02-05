@@ -39,14 +39,72 @@ Students will be required to learn R. Knowledge of MATLAB may also be helpful.
 Course Requirements
 -------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem sets, including computational exercises \[not available on MIT OpenCourseWare\] | 50% |
-| {{< td-colspan 2 >}}**Course Project**{{< /td-colspan >}} ||
-| Proposal | 10% |
-| Advertisement | 2% |
-| Progress report | 0% |
-| Paper and talk | 38% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets, including computational exercises \[not available on MIT OpenCourseWare\]
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Course Project**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Proposal
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Advertisement
+{{< tdclose >}}
+{{< tdopen >}}
+2%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Progress report
+{{< tdclose >}}
+{{< tdopen >}}
+0%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper and talk
+{{< tdclose >}}
+{{< tdopen >}}
+38%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Additional References (Optional)
 --------------------------------
