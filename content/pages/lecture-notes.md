@@ -138,7 +138,7 @@ TOPICS
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Kernels (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit15_097s12_lec13)
+[Kernels (PDF)]({{< baseurl >}}/resources/mit15_097s12_lec13)
 {{< tdclose >}}
 
 {{< trclose >}}

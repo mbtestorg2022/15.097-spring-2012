@@ -117,9 +117,9 @@ Cristianini, Nello, and John Shawe-Taylor. _An Introduction to Support Vector Ma
 
 Gelman, Andrew, et al. _Bayesian Data Analysis_. 2nd ed. Chapman and Hall/CRC, 2003. ISBN: 9781584883883.
 
-Bousquet, Olivier, Stéphane Boucheron, and Gábor Lugosi. [_Introduction to Statistical Learning Theory_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://www.econ.upf.edu/~lugosi/mlss_slt.pdf)
+Bousquet, Olivier, Stéphane Boucheron, and Gábor Lugosi. [_Introduction to Statistical Learning Theory_. (PDF)](http://www.econ.upf.edu/~lugosi/mlss_slt.pdf)
 
-Wu, Xindong, et al. ["Top 10 Algorithms in Data Mining." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](https://link.springer.com/article/10.1007/s10115-007-0114-2) _Knowledge and Information Systems_ 14 (2008): 1-37.
+Wu, Xindong, et al. ["Top 10 Algorithms in Data Mining." (PDF)](https://link.springer.com/article/10.1007/s10115-007-0114-2) _Knowledge and Information Systems_ 14 (2008): 1-37.
 
 Course Material
 ---------------
